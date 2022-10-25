@@ -25,7 +25,7 @@ SECRET_KEY = '5da0899c-b1b8-4d78-82dc-db1f9ef96e5d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'admin', 'psina.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'admin', 'psina.pythonanywhere.com', 'http://psina.pythonanywhere.com/']
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
